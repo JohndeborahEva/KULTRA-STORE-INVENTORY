@@ -11,6 +11,7 @@ By leveraging SQL Queries,this project aims to optimise iventory management, ide
 -  Generate insights to improve products Order and Revenue
 
   ### Project Structure 
+  
  
   
 
