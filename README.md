@@ -10,10 +10,10 @@ By leveraging SQL Queries,this project aims to optimise iventory management, ide
 -  Query for Top Products Category,Most Valuable Customers
 -  Generate insights to improve products Order and Revenue
 
-  ### Project Structure 
-  
- 
-  
+   ## Project Structure 
+    **SQL-query/** :All SQL script
+    **Data/** :Raw data in CSV Format 
+    **Order/** :Ordee status in CSV
 
 
 ### KeySQL Tasks
