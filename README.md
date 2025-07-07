@@ -11,7 +11,7 @@ By leveraging SQL Queries,this project aims to optimise iventory management, ide
 -  Generate insights to improve products Order and Revenue
 
   ### Project Structure 
-  **SQL
+  ```SQL
   CREATE DATABASE DSA_PROJECT_DB
 
 ----------IMPORT TABLE NAME SQL_RECORDS INTO MY DSA_PROJECT_DB-------
@@ -183,7 +183,7 @@ COUNT(*) AS Total_Orders
 FROM SQL_RECORDS
 GROUP BY Order_Priority, Ship_Mode
 ORDER BY Order_Priority, Total_Orders DESC
-""
+```
 
   
 
