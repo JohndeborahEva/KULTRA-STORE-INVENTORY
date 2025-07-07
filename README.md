@@ -13,7 +13,8 @@ By leveraging SQL Queries,this project aims to optimise iventory management, ide
    ## Project Structure 
     -  **[SQLQuery 1 MY PROJECT.sql](SQLQuery1 MY PROJECT.sql/**): All SQL script
     -  **[KMS+Sql+Case+Study (1).csv](KMS+Sql+Case+Study (1).csv/**) : Raw data in CSV Format 
-    -  **[Order_Status (1).csv](KMS+Sql+Case+Study (1).csv/**):Order status in CSV Format
+    -  **[[Order_Status (1).csv](Order_Status (1).csv/**):Order status in CSV Format
+      
 
 
 ### KeySQL Tasks
