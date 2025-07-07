@@ -11,7 +11,22 @@ By leveraging SQL Queries,this project aims to optimise iventory management, ide
 -  Generate insights to improve products Order and Revenue
 
   ### Project Structure 
-  ```SQL
+ 
+  
+
+
+### KeySQL Tasks
+
+-  Joins between customers and orders
+-  Aggregate funtions (SUM,COUNT,AVERAGE,ROUND)
+-  Grouping and ordering
+
+## Tools Used
+- SQL Management Studio
+
+
+## Sample Query
+ ```SQL
   CREATE DATABASE DSA_PROJECT_DB
 
 ----------IMPORT TABLE NAME SQL_RECORDS INTO MY DSA_PROJECT_DB-------
@@ -185,215 +200,6 @@ GROUP BY Order_Priority, Ship_Mode
 ORDER BY Order_Priority, Total_Orders DESC
 ```
 
-  
-
-
-### KeySQL Tasks
-
--  Joins between customers and orders
--  Aggregate funtions (SUM,COUNT,AVERAGE,ROUND)
--  Grouping and ordering
-
-## Tools Used
-- SQL Management Studio
-
-
-## Sample Query
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Insights 
 
 -  Advise the management of KMS on what to do to increase the revenue from the bottom 10 Customers
@@ -404,7 +210,7 @@ ORDER BY Order_Priority, Total_Orders DESC
    3. they are buy once customers or inactive customers that probably just wanted to try the product
    4. Dissatisfied customers that did not border to comeback due to their first experience
  
--  Recommendation to increase revenue using the bottom performimg customers
+  ## Recommendation to increase revenue using the bottom performimg customers
    1. Loyalty incentives
    2. Customer feedback collection
    3. Account based follow up
